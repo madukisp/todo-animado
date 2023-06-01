@@ -50,13 +50,6 @@
       "prioridade": "Normal"
     },
     {
-      "id": 9,
-      "descricao": "Fazer curso de animações",
-      "statusFinalizado": true,
-      "categoria": "Estudos",
-      "prioridade": "Alta"
-    },
-    {
       "id": 10,
       "descricao": "Regar as plantas",
       "statusFinalizado": true,
@@ -76,13 +69,6 @@
       "statusFinalizado": true,
       "categoria": "Estudos",
       "prioridade": "Alta"
-    },
-    {
-      "id": 13,
-      "descricao": "Alongamento",
-      "statusFinalizado": false,
-      "categoria": "Casa",
-      "prioridade": "Normal"
     }
   ]
 }
