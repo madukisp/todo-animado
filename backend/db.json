@@ -1,0 +1,88 @@
+{
+  "tarefas": [
+    {
+      "id": 1,
+      "descricao": "Ir ao supermercado",
+      "categoria": "Casa",
+      "statusFinalizado": true,
+      "prioridade": "Baixa"
+    },
+    {
+      "id": 2,
+      "descricao": "Estudar sobre acessibilidade",
+      "categoria": "Trabalho",
+      "statusFinalizado": false,
+      "prioridade": "Normal"
+    },
+    {
+      "id": 4,
+      "descricao": "Preencher formulário de inscrição",
+      "categoria": "Trabalho",
+      "statusFinalizado": true,
+      "prioridade": "Normal"
+    },
+    {
+      "id": 5,
+      "descricao": "Trocar lâmpada",
+      "categoria": "Casa",
+      "statusFinalizado": false,
+      "prioridade": "Alta"
+    },
+    {
+      "id": 6,
+      "descricao": "Ler",
+      "categoria": "Estudos",
+      "statusFinalizado": false,
+      "prioridade": "Normal"
+    },
+    {
+      "id": 7,
+      "descricao": "Alimentar os gatos",
+      "categoria": "Casa",
+      "statusFinalizado": true,
+      "prioridade": "Alta"
+    },
+    {
+      "id": 8,
+      "descricao": "Refatorar código",
+      "categoria": "Trabalho",
+      "statusFinalizado": true,
+      "prioridade": "Normal"
+    },
+    {
+      "id": 9,
+      "descricao": "Fazer curso de animações",
+      "statusFinalizado": true,
+      "categoria": "Estudos",
+      "prioridade": "Alta"
+    },
+    {
+      "id": 10,
+      "descricao": "Regar as plantas",
+      "statusFinalizado": true,
+      "categoria": "Casa",
+      "prioridade": "Normal"
+    },
+    {
+      "id": 11,
+      "descricao": "Pagar academia",
+      "statusFinalizado": true,
+      "categoria": "Casa",
+      "prioridade": "Normal"
+    },
+    {
+      "id": 12,
+      "descricao": "Assistir live",
+      "statusFinalizado": true,
+      "categoria": "Estudos",
+      "prioridade": "Alta"
+    },
+    {
+      "id": 13,
+      "descricao": "Alongamento",
+      "statusFinalizado": false,
+      "categoria": "Casa",
+      "prioridade": "Normal"
+    }
+  ]
+}
